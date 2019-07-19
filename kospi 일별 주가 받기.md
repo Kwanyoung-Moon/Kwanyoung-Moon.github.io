@@ -12,7 +12,7 @@
 ### 2. pandas_datareader 패키지
 + 참고자료
   + ['파이썬으로 배우는 알고리즘 트레이딩'](https://wikidocs.net/4369)
-  + [Pandas를 이용한  Naver 금융에서 주식데이터 가져오기(https://excelsior-cjh.tistory.com/109)
+  + [Pandas를 이용한  Naver 금융에서 주식데이터 가져오기](https://excelsior-cjh.tistory.com/109)
    + KRX에서 종목코드 다운로드 받는 방법
    + 네이버 금융 크롤링은 수행하지 않았음
 
